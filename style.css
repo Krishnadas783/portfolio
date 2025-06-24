@@ -353,7 +353,7 @@
 
 /* ---------------- Responsive Design ---------------- */
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
 
     .header {
         flex-direction: column;
@@ -404,4 +404,4 @@
         max-width: 300px;
         margin-top: 20px;
     }
-}
+}*/
